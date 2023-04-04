@@ -198,25 +198,6 @@ html.theme-dark .theme-light .root-1CAIjD,
   --dark-elevation-border: 0 0 0 1px hsl(var(--primary-700-hsl)/0.6);
 }
 
-.wrapper-3NnKdC,
-.scroller-1Bvpku,
-.app-2rEoOp,
-.theme-dark .container-1D34oG{
-  background: transparent;
-}
-
-.fullscreen-bg video,
-.fullscreen-bg-video{
-  position: fixed;
-  top: 50%; left: 50%;
-  z-index: -100;
-  min-width: 100%;
-  min-height: 100%;
-  width: auto;
-  height: auto;
-  transform: translate(-50%, -50%);
-}
-
 #app-mount .container-2RRFHK {
   background-color: var(--background-primary);
 }

@@ -205,7 +205,17 @@ html.theme-dark .theme-light .root-1CAIjD,
     --dark-elevation-border: 0 0 0 1px hsl(var(--primary-700-hsl)/0.6);
 }
 
-.wrapper-3NnKdC,
+.theme-dark{
+    /*change last value from 0.0-1.0 to adjust brightness*/
+  --background-tertiary: rgba(25, 25, 25, 0.70); 
+  --background-primary: transparent;
+  --background-secondary: transparent;
+  --background-secondary-alt: transparent;
+  --channeltextarea-background: transparent;
+  }
+  
+  
+  .wrapper-3NnKdC,
   .scroller-1Bvpku,
   .app-2rEoOp,
   .theme-dark .container-1D34oG{
